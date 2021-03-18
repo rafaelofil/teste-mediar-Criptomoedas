@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mediar_test/static/css/main.1324e969.chunk.css",
-    "main.js": "/mediar_test/static/js/main.d219169b.chunk.js",
-    "main.js.map": "/mediar_test/static/js/main.d219169b.chunk.js.map",
-    "runtime-main.js": "/mediar_test/static/js/runtime-main.f7924a7f.js",
-    "runtime-main.js.map": "/mediar_test/static/js/runtime-main.f7924a7f.js.map",
-    "static/js/2.ed905019.chunk.js": "/mediar_test/static/js/2.ed905019.chunk.js",
-    "static/js/2.ed905019.chunk.js.map": "/mediar_test/static/js/2.ed905019.chunk.js.map",
-    "index.html": "/mediar_test/index.html",
-    "static/css/main.1324e969.chunk.css.map": "/mediar_test/static/css/main.1324e969.chunk.css.map",
-    "static/js/2.ed905019.chunk.js.LICENSE.txt": "/mediar_test/static/js/2.ed905019.chunk.js.LICENSE.txt"
+    "main.css": "/teste-mediar-Criptomoedas/static/css/main.1324e969.chunk.css",
+    "main.js": "/teste-mediar-Criptomoedas/static/js/main.fea6125d.chunk.js",
+    "main.js.map": "/teste-mediar-Criptomoedas/static/js/main.fea6125d.chunk.js.map",
+    "runtime-main.js": "/teste-mediar-Criptomoedas/static/js/runtime-main.c6e94097.js",
+    "runtime-main.js.map": "/teste-mediar-Criptomoedas/static/js/runtime-main.c6e94097.js.map",
+    "static/js/2.62427c97.chunk.js": "/teste-mediar-Criptomoedas/static/js/2.62427c97.chunk.js",
+    "static/js/2.62427c97.chunk.js.map": "/teste-mediar-Criptomoedas/static/js/2.62427c97.chunk.js.map",
+    "index.html": "/teste-mediar-Criptomoedas/index.html",
+    "static/css/main.1324e969.chunk.css.map": "/teste-mediar-Criptomoedas/static/css/main.1324e969.chunk.css.map",
+    "static/js/2.62427c97.chunk.js.LICENSE.txt": "/teste-mediar-Criptomoedas/static/js/2.62427c97.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7924a7f.js",
-    "static/js/2.ed905019.chunk.js",
+    "static/js/runtime-main.c6e94097.js",
+    "static/js/2.62427c97.chunk.js",
     "static/css/main.1324e969.chunk.css",
-    "static/js/main.d219169b.chunk.js"
+    "static/js/main.fea6125d.chunk.js"
   ]
 }
