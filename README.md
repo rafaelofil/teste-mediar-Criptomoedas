@@ -16,6 +16,7 @@ Site criado para o teste técnico de front-end da Mediar.🎉
 ## Informações Gerais
 
 Projeto criado com o propósito de mostrar as minhas habilidades em front-end, utilizando o framework ReactJs. O site é responsivo e conta com animação ao scroll, modal, scroll suave, menu mobile e dois gráfico, um de criptomoedas e outro sobre o valor da moeda em cada país.
+Os gráficos utilizam os dados da [Foreign exchange rates API](https://exchangeratesapi.io/) e [Coin Lore API](https://www.coinlore.com/pt/cryptocurrency-data-api).
 
 ## Tecnologias
 
