@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/teste-mediar-Criptomoedas/static/css/main.1324e969.chunk.css",
-    "main.js": "/teste-mediar-Criptomoedas/static/js/main.fea6125d.chunk.js",
-    "main.js.map": "/teste-mediar-Criptomoedas/static/js/main.fea6125d.chunk.js.map",
-    "runtime-main.js": "/teste-mediar-Criptomoedas/static/js/runtime-main.c6e94097.js",
-    "runtime-main.js.map": "/teste-mediar-Criptomoedas/static/js/runtime-main.c6e94097.js.map",
-    "static/js/2.62427c97.chunk.js": "/teste-mediar-Criptomoedas/static/js/2.62427c97.chunk.js",
-    "static/js/2.62427c97.chunk.js.map": "/teste-mediar-Criptomoedas/static/js/2.62427c97.chunk.js.map",
-    "index.html": "/teste-mediar-Criptomoedas/index.html",
-    "static/css/main.1324e969.chunk.css.map": "/teste-mediar-Criptomoedas/static/css/main.1324e969.chunk.css.map",
-    "static/js/2.62427c97.chunk.js.LICENSE.txt": "/teste-mediar-Criptomoedas/static/js/2.62427c97.chunk.js.LICENSE.txt"
+    "main.css": "/teste-mediar-criptomoedas/static/css/main.1324e969.chunk.css",
+    "main.js": "/teste-mediar-criptomoedas/static/js/main.fea6125d.chunk.js",
+    "main.js.map": "/teste-mediar-criptomoedas/static/js/main.fea6125d.chunk.js.map",
+    "runtime-main.js": "/teste-mediar-criptomoedas/static/js/runtime-main.4174fa9e.js",
+    "runtime-main.js.map": "/teste-mediar-criptomoedas/static/js/runtime-main.4174fa9e.js.map",
+    "static/js/2.c2825534.chunk.js": "/teste-mediar-criptomoedas/static/js/2.c2825534.chunk.js",
+    "static/js/2.c2825534.chunk.js.map": "/teste-mediar-criptomoedas/static/js/2.c2825534.chunk.js.map",
+    "index.html": "/teste-mediar-criptomoedas/index.html",
+    "static/css/main.1324e969.chunk.css.map": "/teste-mediar-criptomoedas/static/css/main.1324e969.chunk.css.map",
+    "static/js/2.c2825534.chunk.js.LICENSE.txt": "/teste-mediar-criptomoedas/static/js/2.c2825534.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6e94097.js",
-    "static/js/2.62427c97.chunk.js",
+    "static/js/runtime-main.4174fa9e.js",
+    "static/js/2.c2825534.chunk.js",
     "static/css/main.1324e969.chunk.css",
     "static/js/main.fea6125d.chunk.js"
   ]
