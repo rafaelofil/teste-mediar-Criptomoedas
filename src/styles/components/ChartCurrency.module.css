@@ -6,7 +6,7 @@
 .container > div,
 .error {
   max-width: 680px;
-  margin:  0 auto;
+  margin: 0 auto;
 }
 
 .container > div h1 {
@@ -35,6 +35,13 @@
   border-right-color: transparent;
   animation: loading 1s infinite;
   margin: 1rem auto;
+  animation: loading 1s infinite;
+}
+
+@keyframes loading {
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 @keyframes slideRight {
