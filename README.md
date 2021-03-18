@@ -33,6 +33,10 @@ Para rodar o projeto localmente é necessário instalar as dependencias:
 ```
 $ npm install
 ```
+Depois disso é preciso iniciar o servidor local:
+```
+$ npm start
+```
 
 Ou você pode acessar o link e conferir o site:
 
