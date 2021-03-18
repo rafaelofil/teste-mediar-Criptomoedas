@@ -1,31 +1,45 @@
+# Teste Front-end Mediar
 
-![](https://mediarsolutions.com/wp-content/uploads/2021/02/teste_tecnico_front.png)
+Site criado para o teste técnico de front-end da Mediar.🎉
 
-Estamos muito felizes por estar aqui e que tenha interesse de fazer parte da equipe **Mediar**.
+<div align="center">
+    <img src="./public/teste_tecnico.png" />
+</div>
 
-Antes de seguir para a entrevista, primeiro queremos ver um pouquinho do seu conhecimento na prática, ok?
+## Tabela de Conteúdos
 
-## Contexto
-A plataforma da Mediar possui diversos painéis que são alimentados por dados que recebemos de varejistas parceiros. Estes dados passam por um tratamento e o site tem acesso a eles através de requisições à API, que da a resposta no formato de arquivo JSON.
+- [Informações Gerais](#informacoes-gerais)
+- [Tecnologias](#tecnologias)
+- [Setup](#setup)
+- [Final Considerations](#final-considerations)
 
-## Objetivos
-- Fazer um "Fork" desse projeto ([saiba como](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo));
-- Criar uma página web com uma das seguintes tecnologias: Angular, React ou VueJS;
-- Use sua imaginação e crie componentes (NavBars, Buttons, Modals ou o que julgar necessário) para uma página amigável aos usuários;
-- Construir pelo menos 2 gráficos usando bibliotecas a sua escolha;
-- Criar pelo menos 1 filtro para um dos gráficos;
-- Ao menos um dos gráficos deve receber dados externos à sua aplicação (mais detalhes abaixo);
-- A paleta de cores do site deve ser condizente com as cores da [nossa logo](https://mediarsolutions.com/wp-content/uploads/2021/02/teste_tecnico_front-2.png).
+## Informações Gerais
 
-Iremos olhar desde o código até as escolhas de cores e elementos. Então capriche! 😉
+Projeto criado com o propósito de mostrar as minhas habilidades em front-end, utilizando o framework ReactJs. O site é responsivo e conta com animação ao scroll, modal, scroll suave, menu mobile e dois gráfico, um de criptomoedas e outro sobre o valor da moeda em cada país.
 
-### Dados externos à aplicação
-Entendemos como dados externos qualque dado que é obtido através de alguma requisição. Normalmente estes dados são respostas de APIs RESTful e são no formato JSON ou XML.
+## Tecnologias
 
-Você terá a liberdade de escolher usar uma API de sua preferência ou até subir um arquivo em outro servidor, desde que seja necessário uma requisição HTTP para obter os dados.
+Site criado com:
 
-Não conhece uma API? Aqui você pode acessar uma [lista de APIs públicas](https://github.com/public-apis/public-apis).
+- ReactJs
+- React-Scroll
+- Chart.js
 
-Se tiver problemas para escolher, recomendo a [Coin Lore API](https://www.coinlore.com/pt/cryptocurrency-data-api). Esta API é totalmente gratuita e facilmente pode usar suas informações para construção de gráficos.
+## Setup
 
-## Estaremos ansiosos para ver o seu resultado. Boa Sorte!
+Para rodar o projeto localmente é necessário instalar as dependencias:
+
+```
+$ npm install
+```
+
+Ou você pode acessar o link e conferir o site:
+
+## Considerações Finais
+
+Todo feedback é bem vindo.
+
+Feito por <b>Rafael Filho</b>
+
+<hr>
+<p align="center"> Espero que goste 😎</p>

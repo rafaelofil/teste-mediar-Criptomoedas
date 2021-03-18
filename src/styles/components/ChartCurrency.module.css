@@ -1,0 +1,56 @@
+.container {
+  background-color: #ef5145;
+  padding-bottom: 1rem;
+}
+
+.container > div,
+.error {
+  max-width: 680px;
+  margin:  0 auto;
+}
+
+.container > div h1 {
+  padding-top: 1rem;
+  color: #ffffff;
+  animation: slideRight 1s;
+}
+
+.container > div form select {
+  animation: slideRight 1s;
+}
+
+.chart {
+  margin-top: 0.5rem;
+  background-color: #ffffff;
+  padding-bottom: 0.5rem;
+  border-radius: 5px;
+  animation: slideRight 1s;
+}
+
+.loading {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 4px solid #ef5145;
+  border-right-color: transparent;
+  animation: loading 1s infinite;
+  margin: 1rem auto;
+}
+
+@keyframes slideRight {
+  from {
+    opacity: 0;
+    transform: translate3d(-30px, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@media (max-width: 740px) {
+  .container > div {
+    margin-left: 2rem;
+    margin-right: 1rem;
+  }
+}
