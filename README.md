@@ -38,7 +38,7 @@ Depois disso é preciso iniciar o servidor local:
 $ npm start
 ```
 
-Ou você pode acessar o link e conferir o site:
+Ou você pode acessar o link e conferir o site: https://rafaelofil.github.io/teste-mediar-criptomoedas/
 
 ## Considerações Finais
 
