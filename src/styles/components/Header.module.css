@@ -22,6 +22,7 @@
 }
 
 .logo {
+  width: 150px;
   font-size: 2rem;
   margin: 1.5rem 16.375rem 1.5rem 0rem;
   text-transform: uppercase;
@@ -68,6 +69,10 @@
 .login {
   background-color: #ef5145;
   color: #ffffff;
+}
+
+.login:hover {
+  background-color: #cc4237;
 }
 
 .link {
@@ -160,10 +165,6 @@
   margin-bottom: 0.5rem;
 }
 
-.navMobile button:hover {
-  background-color: #cc4237;
-}
-
 .navMobile .link {
   color: #0079ac;
 }
@@ -187,7 +188,6 @@
   }
 
   .logo {
-    width: 150px;
     margin-right: 0rem;
   }
 }
