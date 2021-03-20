@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/teste-mediar-criptomoedas/static/css/main.4b288698.chunk.css",
+    "main.css": "/teste-mediar-criptomoedas/static/css/main.04e391f0.chunk.css",
     "main.js": "/teste-mediar-criptomoedas/static/js/main.d3ecc7a7.chunk.js",
     "main.js.map": "/teste-mediar-criptomoedas/static/js/main.d3ecc7a7.chunk.js.map",
     "runtime-main.js": "/teste-mediar-criptomoedas/static/js/runtime-main.4174fa9e.js",
@@ -8,13 +8,13 @@
     "static/js/2.c2825534.chunk.js": "/teste-mediar-criptomoedas/static/js/2.c2825534.chunk.js",
     "static/js/2.c2825534.chunk.js.map": "/teste-mediar-criptomoedas/static/js/2.c2825534.chunk.js.map",
     "index.html": "/teste-mediar-criptomoedas/index.html",
-    "static/css/main.4b288698.chunk.css.map": "/teste-mediar-criptomoedas/static/css/main.4b288698.chunk.css.map",
+    "static/css/main.04e391f0.chunk.css.map": "/teste-mediar-criptomoedas/static/css/main.04e391f0.chunk.css.map",
     "static/js/2.c2825534.chunk.js.LICENSE.txt": "/teste-mediar-criptomoedas/static/js/2.c2825534.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4174fa9e.js",
     "static/js/2.c2825534.chunk.js",
-    "static/css/main.4b288698.chunk.css",
+    "static/css/main.04e391f0.chunk.css",
     "static/js/main.d3ecc7a7.chunk.js"
   ]
 }
