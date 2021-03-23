@@ -11,7 +11,7 @@ Site criado para o teste técnico de front-end da Mediar.🎉
 - [Informações Gerais](#informacoes-gerais)
 - [Tecnologias](#tecnologias)
 - [Setup](#setup)
-- [Final Considerations](#final-considerations)
+- [Considerações Finais](#Considerações-finais)
 
 ## Informações Gerais
 
@@ -31,11 +31,11 @@ Site criado com:
 Para rodar o projeto localmente é necessário instalar as dependencias:
 
 ```
-$ npm install
+$ npm install  ||  yarn add
 ```
 Depois disso é preciso iniciar o servidor local:
 ```
-$ npm start
+$ npm start  || yarn start
 ```
 
 Ou você pode acessar o link e conferir o site: https://rafaelofil.github.io/teste-mediar-criptomoedas/
